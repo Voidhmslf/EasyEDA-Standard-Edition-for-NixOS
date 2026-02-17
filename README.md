@@ -92,4 +92,4 @@ The `shell.nix` included in this repo uses `steam-run` with an `override`. We’
 
 Feel free to open an Issue or a Pull Request if you find a missing library or want to improve the Nix expression!
 
-**Created by [VoidHimself**](https://github.com/YourUsername) 🦊
+**Created by [VoidHimself**](https://github.com/Voidhmslf) 🦊
