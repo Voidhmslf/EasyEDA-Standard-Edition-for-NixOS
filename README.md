@@ -25,8 +25,9 @@ Go to the [Official EasyEDA Download Page](https://easyeda.com/page/download) an
 
 ### 2. Clone this Repository
 ```bash
-git clone [https://github.com/YourUsername/easyeda-nixos-wrapper.git](https://github.com/YourUsername/easyeda-nixos-wrapper.git)
-cd easyeda-nixos-wrapper
+
+git clone https://github.com/Voidhmslf/EasyEDA-Standard-Edition-for-NixOS.git
+cd EasyEDA-Standard-Edition-for-NixOS
 
 ```
 
